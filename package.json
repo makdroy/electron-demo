@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/makdroy/electron-demo#readme",
   "devDependencies": {
-    "electron": "^8.2.2"
+    "electron": "^8.2.4"
   }
 }
 
